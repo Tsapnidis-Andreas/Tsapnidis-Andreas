@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Undergraduate student pursuing a BSc in Accounting and Finance <br>at Athens University of Economics and Business
 ## Interests
 Financial Analysis<br>
