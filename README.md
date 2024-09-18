@@ -17,4 +17,10 @@ Accounting <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Tsapnidis-Andreas&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Projects
+[Portfolio Analysis and Optimization](https://github.com/Tsapnidis-Andreas/Portfolio-Analysis-with-Python)
+[Fundamental/Market Analysis](https://github.com/Tsapnidis-Andreas/Stock-analysis-with-python-and-SQL)
+[Option Pricing](https://github.com/Tsapnidis-Andreas/Option-Pricing-with-Python)
+
+
 
