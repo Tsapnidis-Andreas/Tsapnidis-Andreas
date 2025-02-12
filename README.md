@@ -17,7 +17,7 @@ Data Science <br>
 [![](https://visitcount.itsvg.in/api?id=Tsapnidis-Andreas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Projects
-[Efficient Frontier and Portfolio Optimization]([https://github.com/Tsapnidis-Andreas/Portfolio-Analysis-with-Python](https://github.com/Tsapnidis-Andreas/Efficient-Frontier-and-Portfolio-Optimization-with-Python)<br>
+[Efficient Frontier and Portfolio Optimization](https://github.com/Tsapnidis-Andreas/Efficient-Frontier-and-Portfolio-Optimization-with-Python)<br>
 [Fama and French Model estimation](https://github.com/Tsapnidis-Andreas/Fama-and-French-Model-Estimation-with-Python)<br>
 [Option Pricing](https://github.com/Tsapnidis-Andreas/Option-Pricing-with-Python)<br>
 
