@@ -3,8 +3,7 @@ Undergraduate student pursuing a BSc in Accounting and Finance <br>at Athens Uni
 ## Interests
 Financial Analysis<br>
 Quantitative Finance <br>
-Investments <br>
-Accounting <br>
+Data Science <br>
 
 
 
