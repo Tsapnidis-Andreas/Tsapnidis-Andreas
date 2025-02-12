@@ -18,7 +18,7 @@ Data Science <br>
 
 # Projects
 [Portfolio Analysis and Optimization](https://github.com/Tsapnidis-Andreas/Portfolio-Analysis-with-Python)<br>
-[Fundamental/Market Analysis](https://github.com/Tsapnidis-Andreas/Stock-analysis-with-python-and-SQL)<br>
+[Fama and French Model estimation](https://github.com/Tsapnidis-Andreas/Fama-and-French-Model-Estimation-with-Python)<br>
 [Option Pricing](https://github.com/Tsapnidis-Andreas/Option-Pricing-with-Python)<br>
 
 
